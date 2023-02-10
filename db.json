@@ -3,10 +3,10 @@
     { "emailAddress": "aniRban@gmail.com", "password": "Post 1","firstName":"anirban","lastName":"Chakraborty","countryCode":1,"stateCode":1,"distCode":1 },
   ],
   "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+    { "emailAddress": "aniRban@gmail.com", "password": "Post 1","firstName":"anirban","lastName":"Chakraborty","countryCode":1,"stateCode":1,"distCode":1 },
+    { "emailAddress": "aniRbAn@gmail.com", "password": "Post 1","firstName":"anirban","lastName":"Chakraborty","countryCode":1,"stateCode":1,"distCode":1 },
   ],
   "profile": {
-    "name": "typicode"
+    "name": "Anirban-29"
   }
 }
